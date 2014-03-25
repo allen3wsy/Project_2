@@ -1,22 +1,27 @@
 #!/usr/bin/python
 
 import json
-import Setting
+from setting import Setting
 #class type_check
 
 class Type_check:
 
-    setting = Setting
-
     def __init__(self, json_doc_mid):
+
+        setting = Setting
 
         self.json_doc_mid = json_doc_mid
         self.valid_type_included = []
+        self.valid_main_type = []
 
-    def valid_type_included(self):
+        for types in self.json_doc_mid['property']['/type/object/type']['values']:
+            if setting.type_list.has_key(types['id']):
+                self.valid_type_included.append(types['id'])
 
-        for key in self.json_doc_mid['property'].keys():
-            if setting.type_list.has_key(key):
-                self.valid_type_include.append()
+        self.valid_type_included = set(self.valid_type_included)
 
+        for types in self.valid_type_included:
+          if setting.type_list.has_key(types):
+            self.valid_main_type.append(setting.type_list[types])
 
+        self.valid_main_type = set(self.valid_main_type)

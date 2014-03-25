@@ -9,15 +9,15 @@ class Setting:
     key = 'AIzaSyCnwZwSuROuYso7LLV4qcd-xfHvSph8XlY'
 
     #valid type for project2
-    type_list = {   '/people/person': 'Person',
-                    '/book/author'  : 'Author',
-                    '/film/actor'   : 'Actor',
-                    '/tv/tv_actor'  : 'Actor',
-                    '/organization/organization_founder' : 'BusinessPerson',
-                    '/business/board_member'    : 'BusinessPerson',
-                    '/sports/sports_league'     : 'League',
-                    '/sports/sports_team'       : 'SportsTeam',
-                    '/sports/professional_sports_team'   : 'SportsTeam'
+    type_list = {   '/people/person': 'PERSON',
+                    '/book/author'  : 'AUTHOR',
+                    '/film/actor'   : 'ACTOR',
+                    '/tv/tv_actor'  : 'ACTOR',
+                    '/organization/organization_founder' : 'BUSNIESS',
+                    '/business/board_member'    : 'BUSNIESS',
+                    '/sports/sports_league'     : 'LEAGUE',
+                    '/sports/sports_team'       : 'SPORTSTEAM',
+                    '/sports/professional_sports_team'   : 'SPORTSTEAM'
     }
 
     # #people
