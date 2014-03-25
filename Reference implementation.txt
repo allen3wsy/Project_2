@@ -1,0 +1,45 @@
+##############
+For part 1: 
+#############
+
+1.
+
+/home/gravano/6111/Html/Proj2/code/run.sh -key AIzaSyCnwZwSuROuYso7LLV4qcd-xfHvSph8XlY -q “Bill Gates” -t infobox
+
+
+2.
+
+
+3./home/gravano/6111/Html/Proj2/code/run.sh -key AIzaSyCnwZwSuROuYso7LLV4qcd-xfHvSph8XlY
+
+
+Tina’s key
+/home/gravano/6111/Html/Proj2/code/run.sh -key AIzaSyA5c1nxOEDPual-jfeLVt-i571ngRFost4 -q "Pacino" -t infobox
+
+
+
+##############
+Test case 
+#############
+NBA
+NFL
+NCAA
+UEFA
+Premier League
+La Liga
+
+
+Miami Heat
+NY Knicks
+Liverpool
+Barcelona
+Manchester United
+
+
+##############
+For part 2: 
+#############
+
+
+Query Editor
+https://www.freebase.com/query
