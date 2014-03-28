@@ -74,10 +74,11 @@ class Info_box_person:
 
       #text for date of death
       if property_dict.has_key('/people/deceased_person/cause_of_death'):
-        cause_of_death = ', cause (' + property_dict['/people/deceased_person/cause_of_death']['values'][0]['text'] + ')'
+        cause_of_death = ', cause: (' + property_dict['/people/deceased_person/cause_of_death']['values'][0]['text'] + ')'
       else:
         cause_of_death = ''
-      print '{0:<81s}|' .format(place_of_death + date_of_death + cause_of_death)
+      print setting.str_death,
+      print '{0:<81s}|' .format(date_of_death + place_of_death + cause_of_death)
       print bar
 
     #print place of birth
@@ -202,7 +203,7 @@ class Info_box_person:
         for i in range(len(list_influenced_by_ppl)):
           if i == 0:
             print setting.str_infu_by,
-            print '{0:<81s}|' .format(summarize(llist_influenced_by_ppl[i]))
+            print '{0:<81s}|' .format(summarize(list_influenced_by_ppl[i]))
           else:
             print setting.str_white,
             print '{0:<81s}|' .format(summarize(list_influenced_by_ppl[i]))
