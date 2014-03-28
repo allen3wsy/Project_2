@@ -19,7 +19,24 @@ class Setting:
                     '/sports/sports_team'       : 'SPORTSTEAM',
                     '/sports/professional_sports_team'   : 'SPORTSTEAM'
     }
-
+    str_white   = '|                '
+    str_name    = '| Name:          '
+    str_birth   = '| Birthday:      '
+    str_bplace  = '| Place of birth:'
+    str_death   = '| Death          '
+    str_desp    = '| Descriptions:  '
+    str_sib     = '| Siblings:      '
+    str_spou    = '| Spouses:       '
+    str_book    = '| Books:         '
+    str_bookab  = '| Books about:   '
+    str_influ   = '| Influenced:    '
+    str_infu_by = '| Influenced by: '
+    str_film    = '| Films:         |Character                              | Film Name                               |'
+    str_f_white = '|               '
+    str_f_bar   = '----------------------------------------------------------------------------------'
+    str_founded = '| Founded:       '
+    str_leadsh  = '| Leadership:    |Organization            | Role            | Title            | From-To           |'
+    str_b_mem   = '| Board Member:  |Organization            | Role            | Title            | From/To           |'
     # #people
     # Person = ['/people/person']
     # Author = ['/book/author']
@@ -30,5 +47,3 @@ class Setting:
     # SportsTeam = ['/sports/sports_team','/sports/professional_sports_team']
     # #all
     # All_types = Person + Author + Actor + BusinessPerson + League + SportsTeam
-
-
