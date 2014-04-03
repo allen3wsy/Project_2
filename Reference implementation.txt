@@ -17,6 +17,12 @@ Tina’s key
 /home/gravano/6111/Html/Proj2/code/run.sh -key AIzaSyA5c1nxOEDPual-jfeLVt-i571ngRFost4 -q "Pacino" -t infobox
 
 
+Part 2:
+/home/gravano/6111/Html/Proj2/code/run.sh -key AIzaSyCnwZwSuROuYso7LLV4qcd-xfHvSph8XlY -q “Who created Dracula?” -t question
+
+
+
+
 
 ##############
 Test case 
