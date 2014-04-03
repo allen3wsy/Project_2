@@ -13,7 +13,7 @@ from info_box_group import Info_box_group
 #TBF
 setting = Setting
 
-query = 'NY knicks' #Robert Downey Jr.
+query = 'CHelsea' #Robert Downey Jr.
 query = query.replace(' ', '%20') #url_encode for white space
 
 url_query = setting.url_query + '?' + 'query=' + query + '&' + 'key=' + setting.key

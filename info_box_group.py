@@ -217,8 +217,8 @@ class Info_box_group:
                 else:
                     list_from.append('N/A')     
 
-                if coach['property'].has_key("/sports/sports_team_coach_tenure/to"):
-                    list_to.append(coach['property']["/sports/sports_team_coach_tenure/to"]['values'][0]['text']) #character name
+                if coach['property'].has_key("/sports/sports_team_coach_tenure/to") and len(coach['property']["/sports/sports_team_coach_tenure/to"]['values']) != 0:
+                    list_to.append(coach['property']["/sports/sports_team_coach_tenure/to"]['values'][0]['text']) 
                 else:
                     list_to.append('now')  
 
@@ -226,7 +226,7 @@ class Info_box_group:
             print setting.str_f_bar
             for i in range(len(property_dict["/sports/sports_team/coaches"]['values'])):
                 print setting.str_f_white,
-                print '|{0:<24s}|' .format(list_names[i]),
+                print '|{0:<24s}|' .format(list_names[i].encode('utf-8')),
                 print '{0:<28s}|' .format(list_positions[i]),
                 ft = list_from[i] + ' / ' + list_to[i]
                 print '{0:<25s}|' .format(ft)
@@ -271,7 +271,7 @@ class Info_box_group:
                     # list_player_roster[index]['position'] = temp_list[index]['property']["/sports/sports_team_roster/position"]['values'][0]['text']
                 
                 # number
-                if temp_list[index]['property'].has_key("/sports/sports_team_roster/number"):
+                if temp_list[index]['property'].has_key("/sports/sports_team_roster/number") and len(temp_list[index]['property']["/sports/sports_team_roster/number"]['values']) != 0:
                     list_player_roster[index]['number'] = temp_list[index]['property']["/sports/sports_team_roster/number"]['values'][0]['text']
                 
                 # from
@@ -279,7 +279,7 @@ class Info_box_group:
                     list_player_roster[index]['from'] = temp_list[index]['property']["/sports/sports_team_roster/from"]['values'][0]['text']
                 
                 # to
-                if temp_list[index]['property'].has_key("/sports/sports_team_roster/to"):
+                if temp_list[index]['property'].has_key("/sports/sports_team_roster/to") and len(temp_list[index]['property']["/sports/sports_team_roster/to"]['values']) != 0:
                     list_player_roster[index]['to'] = temp_list[index]['property']["/sports/sports_team_roster/to"]['values'][0]['text']
                 else:
                     if temp_list[index]['property'].has_key("/sports/sports_team_roster/from"):
@@ -289,9 +289,9 @@ class Info_box_group:
 
             for i in range(len(list_player_roster)):
                 print setting.str_f_white,
-                print '|{0:<17s}|' .format(extract_name(list_player_roster[i]['name'])),
-                print '{0:<21s}|' .format(extract_position(list_player_roster[i]['position'])),
-                print '{0:<19s}|' .format(list_player_roster[i]['number']),
+                print '|{0:<17s}|' .format(extract_name(list_player_roster[i]['name'].encode('utf-8'))),
+                print '{0:<21s}|' .format(extract_position(list_player_roster[i]['position'].encode('utf-8'))),
+                print '{0:<19s}|' .format(list_player_roster[i]['number'].encode('utf-8')),
               
 
                 str_from_to = list_player_roster[i]['from'] + ' / ' + list_player_roster[i]['to']
@@ -340,7 +340,7 @@ def extract_position(content):
 
 #function to extract front part of content for from_to
 def extract_from_to(content):
-    if len(content) > 20:
-        return content[0:17] + '...'
+    if len(content) > 18:
+        return content[0:15] + '...'
     else:
         return content
