@@ -1,0 +1,23 @@
+Wrong cases:
+
+
+[03:21:01] sw2848@fb_ibox> What created Google?
+You got me sw2848. Your query corresponds to an internal functionality and thus your it is reserved for internal consumption.
+
+
+[03:23:05] sw2848@fb_ibox> who created metaphysics of being
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                 Who created metaphysics of being?                                |
+	 --------------------------------------------------------------------------------------------------
+
+
+[03:25:17] sw2848@fb_ibox> who created the metaphysics of created
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                              Who created the metaphysics of created?                             |
+	 --------------------------------------------------------------------------------------------------
+	| Richard M. Frank:|As                                 | Creation                                  |
+	|                  --------------------------------------------------------------------------------
+	|                  |Author                             | The metaphysics of created being acc...   |
+	 --------------------------------------------------------------------------------------------------

@@ -20,7 +20,7 @@ class Info_box_person:
 
     #information for PERSON------------------------------------------------------------------------------------
     #text for name
-    
+
     str_name = property_dict['/type/object/name']['values'][0]['text']
     #text for types
     str_type = ''
@@ -250,7 +250,7 @@ class Info_box_person:
             print setting.str_white,
             print '{0:<81s}|' .format(list_found_comp[i])
         print bar
-
+    
       #print leadship
       #list for leadship, each element in it is a dictionary
       if property_dict.has_key('/business/board_member/leader_of'):
@@ -287,6 +287,7 @@ class Info_box_person:
             str_time = ''
           print '{0:<18s}|' .format(business_time(str_time))
         print bar
+
       #print board_member
       #list for board_member, each element in it is a dictionary
       if property_dict.has_key('/business/board_member/organization_board_memberships'):
@@ -324,6 +325,7 @@ class Info_box_person:
           print '{0:<18s}|' .format(business_time(str_time))
 
         print bar
+
 #function to extract front part of context for books & book about
 def summarize(context):
   if len(context) > 72:
