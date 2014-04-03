@@ -37,6 +37,22 @@ class Setting:
     str_founded = '| Founded:       '
     str_leadsh  = '| Leadership:    |Organization            | Role            | Title            | From-To           |'
     str_b_mem   = '| Board Member:  |Organization            | Role            | Title            | From/To           |'
+    
+    ## for groups 
+    str_name    = '| Name:          '   ## same
+    str_sport   = '| Sport:         '
+    str_arena   = '| Arena:         '
+    str_champion= '| Championship:  '   ## both used (but different content)
+    str_founded = '| Founded:       '   ## same
+    str_leagues = '| Leagues:       ' 
+    str_location= '| Locations:     '
+    str_coaches = '| Coaches:       |Name                    | Position                    | From/To                  |'
+    str_playrstr= '| PlayersRoster: |Name             | Position             | Number             | From/To           |'
+    str_desp    = '| Descriptions:  '   ## same       |
+    str_slogan  = '| Slogan:        '
+    str_website = '| Website:       '
+    str_teams   = '| Teams:         '
+
     # #people
     # Person = ['/people/person']
     # Author = ['/book/author']

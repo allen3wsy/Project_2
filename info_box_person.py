@@ -17,8 +17,10 @@ class Info_box_person:
     #behind_len = 81
     bar = ' --------------------------------------------------------------------------------------------------'
     print bar
+
     #information for PERSON------------------------------------------------------------------------------------
     #text for name
+    
     str_name = property_dict['/type/object/name']['values'][0]['text']
     #text for types
     str_type = ''
@@ -208,6 +210,7 @@ class Info_box_person:
             print setting.str_white,
             print '{0:<81s}|' .format(summarize(list_influenced_by_ppl[i]))
         print bar
+
     #information for ACTOR-------------------------------------------------------------------------------------
     if 'ACTOR' in self.types:
       #list for characters

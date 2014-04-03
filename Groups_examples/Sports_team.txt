@@ -1,0 +1,384 @@
+[17:57:50] sw2848@fb_ibox> ny knicks
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                   New York Knicks(SPORTS TEAM)                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Name:          New York Knicks                                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:         Basketball                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Arena:         Madison Square Garden                                                             |
+	 --------------------------------------------------------------------------------------------------
+	| Championships: 1970 NBA Finals                                                                   |
+	|                1973 NBA Finals                                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Founded:       1946                                                                              |
+	 --------------------------------------------------------------------------------------------------
+	| Leagues:       National Basketball Association                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Locations:     New York City                                                                     |
+	 --------------------------------------------------------------------------------------------------
+	| Coaches:      |Name                    | Position                    | From/To                   |
+	|               -----------------------------------------------------------------------------------
+	|               |Mike Woodson            | Head coach                  | 2011-08-29 / now          |
+	 --------------------------------------------------------------------------------------------------
+	| PlayersRoster:|Name             | Position             | Number             | From/To            |
+	|               -----------------------------------------------------------------------------------
+	|               |Jamal Crawford   | Shooting guard, P... | 11                 | 2004 / 2008        |
+	|               |Bill Bradley     |                      |                    | 1967 / 1977        |
+	|               |Patrick Ewing    | Power forward, Ce... | 33                 | 1985 / 2000        |
+	|               |Marcus Camby     | Power forward, Ce... | 23                 | 1998 / 2002        |
+	|               |Stephon Marbury  |                      |                    | 2003 / 2008        |
+	|               |Eddy Curry       |                      |                    | 2005 / 2011        |
+	|               |Chris Duhon      |                      |                    | 2008 / 2010        |
+	|               |Quentin Richa... |                      |                    | 2005 / 2009        |
+	|               |Roger Mason, Jr. |                      |                    | 2010 / 2011        |
+	|               |Ronny Turiaf     |                      |                    | 2010 / 2011        |
+	 --------------------------------------------------------------------------------------------------
+	| Description:   The New York Knickerbockers, commonly referred to as the Knicks, are a professiona|
+	|                l basketball team based in New York City, New York. The team, established by Ned I|
+	|                rish in 1946, was one of the founding members of the Basketball Association of Ame|
+	|                rica, which became the NBA after merging with rival National Basketball League in |
+	|                1949. The team plays at Madison Square Garden in the borough of Manhattan and is o|
+	|                ne of only two teams of the original National Basketball Association still located|
+	|                 in its original city. The Knicks were successful during their early years and wer|
+	|                e constant playoff contenders under the franchise's first head coach Joe Lapchick.|
+	|                 Beginning in 1950, the Knicks made three consecutive appearances in the NBA Final|
+	|                s, all of which were losing efforts. Lapchick resigned in 1956 and the team subseq|
+	|                uently began to falter. It was not until the late 1960s when Red Holzman became he|
+	|                ad coach did the Knicks begin to regain their former dominance. Holzman successful|
+	|                ly guided the Knicks to two championship titles in 1970 and 1973. The Knicks of th|
+	|                e 1980s had mixed success that included six playoff appearances however, they fail|
+	|                ed to participate in the NBA Finals.                                              |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:59:17] sw2848@fb_ibox> miami heat
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                      Miami Heat(SPORTS TEAM)                                     |
+	 --------------------------------------------------------------------------------------------------
+	| Name:          Miami Heat                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:         Basketball                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Arena:         American Airlines Arena                                                           |
+	 --------------------------------------------------------------------------------------------------
+	| Championships: 2006 NBA Finals                                                                   |
+	|                2012 NBA Finals                                                                   |
+	|                2013 NBA Finals                                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Founded:       1988                                                                              |
+	 --------------------------------------------------------------------------------------------------
+	| Leagues:       National Basketball Association                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Locations:     Miami                                                                             |
+	 --------------------------------------------------------------------------------------------------
+	| Coaches:      |Name                    | Position                    | From/To                   |
+	|               -----------------------------------------------------------------------------------
+	|               |Erik Spoelstra          | Coach                       | 2008-04 / now             |
+	 --------------------------------------------------------------------------------------------------
+	| PlayersRoster:|Name             | Position             | Number             | From/To            |
+	|               -----------------------------------------------------------------------------------
+	|               |Shaquille O'Neal | Center               | 32                 | 2004-07-14 / 20... |
+	|               |Earl Barron      |                      |                    | 2005 / 2008        |
+	|               |Michael Beasley  | Power forward, Sm... | 30                 | 2008-06-26 / 20... |
+	|               |Dorell Wright    |                      |                    | 2004 / 2010-07-13  |
+	|               |Jamaal Magloire  |                      |                    | 2008-08-30 / 20... |
+	|               |Carlos Arroyo    |                      |                    | 2009-10-11 / 20... |
+	|               |Quentin Richa... |                      |                    | 2009 / 2010-07-13  |
+	|               |Shavlik Randolph | Power forward        | 42                 | 2009 / 2010        |
+	|               |Yakhouba Diawara |                      |                    | 2008-08-07 / 20... |
+	|               |Ronny Turiaf     |                      |                    | 2012-03-21 / 20... |
+	 --------------------------------------------------------------------------------------------------
+	| Description:   The Miami Heat are a professional basketball team based in Miami, Florida, United |
+	|                States. The team is a member of the Southeast Division in the Eastern Conference o|
+	|                f the National Basketball Association. They play their home games at the American |
+	|                Airlines Arena in Downtown Miami. The team owner is Micky Arison, who also owns cr|
+	|                uise-ship giant Carnival Corporation. The team president and de facto general mana|
+	|                ger is Pat Riley, and the head coach is Erik Spoelstra. The mascot of the team is |
+	|                Burnie, an anthropomorphic fireball. Formed in 1988 as one of the NBA's four expan|
+	|                sion franchises, the Heat have won three league championships, five conference tit|
+	|                les and 11 division titles. From February 3 to March 27, 2013, the Heat won 27 gam|
+	|                es in a row, the second-longest streak in NBA history. In 2013, Forbes valued the |
+	|                Heat at $625 million, sixth-most-valuable among NBA franchises. The Heat are not r|
+	|                elated to the Miami Floridians, an ABA team in the early 1970s, although the Heat |
+	|                have occasionally paid tribute to the older franchise by wearing a replica version|
+	|                 of the Floridians' uniforms for the NBA's "Hardwood Classics Nights" during the 2|
+	|                005–06 and 2011–12 seasons.                                                       |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:59:36] sw2848@fb_ibox> Barcelona
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                     FC Barcelona(SPORTS TEAM)                                    |
+	 --------------------------------------------------------------------------------------------------
+	| Name:          FC Barcelona                                                                      |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:         Football                                                                          |
+	 --------------------------------------------------------------------------------------------------
+	| Arena:         Camp Nou                                                                          |
+	 --------------------------------------------------------------------------------------------------
+	| Championships: 2006 UEFA Champions League Final                                                  |
+	|                2009 UEFA Champions League Final                                                  |
+	|                2011 UEFA Champions League Final                                                  |
+	|                1992 European Cup Final                                                           |
+	|                1992–93 La Liga                                                                   |
+	|                1997–98 La Liga                                                                   |
+	|                1998–99 La Liga                                                                   |
+	|                1959–60 La Liga                                                                   |
+	|                1984–85 La Liga                                                                   |
+	|                1947–48 La Liga                                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Founded:       1899-11-29                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Leagues:       La Liga                                                                           |
+	 --------------------------------------------------------------------------------------------------
+	| Locations:     Barcelona                                                                         |
+	 --------------------------------------------------------------------------------------------------
+	| Coaches:      |Name                    | Position                    | From/To                   |
+	|               -----------------------------------------------------------------------------------
+	|               |Aureli Altimiraz        | Fitness Coach               |                           |
+	|               |Paco Seiruŀlo           | Fitness Coach               |                           |
+	|               |Francesc Cos            | Fitness Coach               |                           |
+	|               |Eduardo Pons            | Fitness Coach               |                           |
+	|               |José Ramón de la Fuente | Goalkeeping coach           |                           |
+	|               |José Mourinho           | Assistant manager           | 1996 / 2000               |
+	 --------------------------------------------------------------------------------------------------
+	| PlayersRoster:|Name             | Position             | Number             | From/To            |
+	|               -----------------------------------------------------------------------------------
+	|               |Víctor Valdés    | Goalkeeper           | 1                  | 2002 / now         |
+	|               |Juliano Belletti | Defender             |                    | 2004 / 2007        |
+	|               |Thiago Motta     | Midfielder           |                    | 2001 / 2007        |
+	|               |Rafael Márquez   | Defender             |                    | 2003 / 2010        |
+	|               |Carles Puyol     | Defender             | 5                  | 1999-10-02 / now   |
+	|               |Thierry Henry    | Forward              | 14                 | 2007 / 2010        |
+	|               |Samuel Eto'o     | Forward              | 9                  | 2004 / 2009        |
+	|               |Cesc Fàbregas    | Midfielder           | 4                  | 2011-08-15 / now   |
+	|               |Eiður Guðjohnsen | Forward              |                    | 2006 / 2009        |
+	|               |Gerard Piqué     | Defender             | 3                  | 2008-05-27 / now   |
+	 --------------------------------------------------------------------------------------------------
+	| Description:   Futbol Club Barcelona, also known as Barcelona and familiarly as Barça, is a profe|
+	|                ssional football club, based in Barcelona, Catalonia, Spain. Founded in 1899 by a |
+	|                group of Swiss, English and Catalan footballers led by Joan Gamper, the club has b|
+	|                ecome a symbol of Catalan culture and Catalanism, hence the motto "Més que un club|
+	|                ". Unlike many other football clubs, the supporters own and operate Barcelona. It |
+	|                is the world's second-richest football club in terms of revenue, with an annual tu|
+	|                rnover of $613 million, and the third most valuable sports team on the globe, wort|
+	|                h $2.6 billion. The official Barcelona anthem is the "Cant del Barça", written by |
+	|                Jaume Picas and Josep Maria Espinàs. Barcelona is the most successful club in Spai|
+	|                n, in terms of overall official titles won. Barcelona was ranked first in the 'All|
+	|                -Time Club World Ranking' by IFFHS, on 31 December 2009, and is also currently pla|
+	|                ced on top of the UEFA club rankings. It is the current Spanish football champion |
+	|                and has won 22 La Liga, 26 Copa del Rey, 11 Supercopa de España, 3 Copa Eva Duarte|
+	|                 and 2 Copa de la Liga trophies, as well as being the record holder for the latter|
+	|                 four competitions. In international club football, Barcelona has won four UEFA Ch|
+	|                ampions League, a record four UEFA Cup Winners' Cup, four UEFA Super Cup, a record|
+	|                 three Inter-Cities Fairs Cup and a record two FIFA Club World Cup trophies. The c|
+	|                lub has a long-standing rivalry with Real Madrid; matches between the two teams ar|
+	|                e referred to as "El Clásico".                                                    |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:59:47] sw2848@fb_ibox> Liverpool
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                    Liverpool F.C.(SPORTS TEAM)                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Name:          Liverpool F.C.                                                                    |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:         Football                                                                          |
+	 --------------------------------------------------------------------------------------------------
+	| Arena:         Anfield                                                                           |
+	 --------------------------------------------------------------------------------------------------
+	| Championships: 2006 FA Cup Final                                                                 |
+	|                2005 UEFA Champions League Final                                                  |
+	|                2005 UEFA Super Cup                                                               |
+	|                2003 Football League Cup Final                                                    |
+	|                2001 UEFA Super Cup                                                               |
+	|                2000–01 UEFA Cup                                                                  |
+	|                2001 FA Cup Final                                                                 |
+	|                2000–01 Football League Cup                                                       |
+	|                1992 FA Cup Final                                                                 |
+	|                1989 FA Cup Final                                                                 |
+	 --------------------------------------------------------------------------------------------------
+	| Founded:       1892-03-15                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Leagues:       Premier League                                                                    |
+	|                The Football League                                                               |
+	 --------------------------------------------------------------------------------------------------
+	| Locations:     Liverpool                                                                         |
+	 --------------------------------------------------------------------------------------------------
+	| Coaches:      |Name                    | Position                    | From/To                   |
+	|               -----------------------------------------------------------------------------------
+	|               |Mike Marsh              | First team coach            |                           |
+	 --------------------------------------------------------------------------------------------------
+	| PlayersRoster:|Name             | Position             | Number             | From/To            |
+	|               -----------------------------------------------------------------------------------
+	|               |Daniel Pacheco   | Forward              | 12                 | 2009 / 2013        |
+	|               |Steven Gerrard   | Midfielder           | 8                  | 1998 / now         |
+	|               |Pepe Reina       | Goalkeeper           | 25                 | 2005 / 2013        |
+	|               |Fernando Torres  | Forward              | 9                  | 2007 / 2011        |
+	|               |Lucas Leiva      | Midfielder           | 21                 | 2007 / now         |
+	|               |Jamie Carragher  | Defender             | 23                 | 1996 / 2013        |
+	|               |Ryan Babel       | Forward              | 19                 | 2007 / 2011        |
+	|               |Maxi Rodríguez   | Midfielder           | 11                 | 2010 / 2012        |
+	|               |Sotirios Kyrg... | Defender             | 16                 | 2009 / 2011        |
+	|               |Daniel Agger     | Defender             | 5                  | 2006 / now         |
+	 --------------------------------------------------------------------------------------------------
+	| Description:   Liverpool Football Club is an English Premier League football club based in Liverp|
+	|                ool. Liverpool F.C. is one of the most successful clubs in England and has won mor|
+	|                e European trophies than any other English team with five European Cups, three UEF|
+	|                A Cups and three UEFA Super Cups. The club has also won eighteen League titles, se|
+	|                ven FA Cups and a record eight League Cups. Liverpool was founded in 1892 and join|
+	|                ed the Football League the following year. The club has played at Anfield since it|
+	|                s formation. The most successful period in Liverpool's history was the 1970s and '|
+	|                80s when Bill Shankly and Bob Paisley led the club to eleven league titles and sev|
+	|                en European trophies. The club's supporters have been involved in two major traged|
+	|                ies. The first was the Heysel Stadium disaster in 1985 in which charging Liverpool|
+	|                 fans caused a wall to collapse, killing 39 Juventus supporters and resulting in E|
+	|                nglish clubs being banned from European competitions for five years. In the 1989 H|
+	|                illsborough disaster, 96 Liverpool supporters lost their lives in a crush against |
+	|                perimeter fencing. Liverpool has long-standing rivalries with neighbours Everton a|
+	|                nd with Manchester United. The team changed from red shirts and white shorts to an|
+	|                 all-red home strip in 1964. The club's anthem is "You'll Never Walk Alone".      |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:59:56] sw2848@fb_ibox> Chelsea
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                     Chelsea F.C.(SPORTS TEAM)                                    |
+	 --------------------------------------------------------------------------------------------------
+	| Name:          Chelsea F.C.                                                                      |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:         Football                                                                          |
+	 --------------------------------------------------------------------------------------------------
+	| Arena:         Stamford Bridge                                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Championships: 2007 FA Cup Final                                                                 |
+	|                2000 FA Cup Final                                                                 |
+	|                2009 FA Cup Final                                                                 |
+	|                1969–70 FA Cup                                                                    |
+	|                1996–97 FA Cup                                                                    |
+	|                1999–2000 FA Cup                                                                  |
+	|                2006–07 FA Cup                                                                    |
+	|                2008–09 FA Cup                                                                    |
+	|                2012 FA Cup Final                                                                 |
+	|                2012 UEFA Champions League Final                                                  |
+	 --------------------------------------------------------------------------------------------------
+	| Founded:       1905-03-10                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Leagues:       Premier League                                                                    |
+	 --------------------------------------------------------------------------------------------------
+	| Locations:     Fulham                                                                            |
+	 --------------------------------------------------------------------------------------------------
+	| Coaches:      |Name                    | Position                    | From/To                   |
+	|               -----------------------------------------------------------------------------------
+	|               |José Mourinho           | Manager                     | 2013-06 / now             |
+	|               |José Mourinho           | Manager                     | 2004-06 / 2007-09         |
+	|               |Carlo Ancelotti         | Manager                     | 2009 / 2011               |
+	 --------------------------------------------------------------------------------------------------
+	| PlayersRoster:|Name             | Position             | Number             | From/To            |
+	|               -----------------------------------------------------------------------------------
+	|               |Magnus Hedman    | Goalkeeper           |                    | 2006 / 2007        |
+	|               |Frank Lampard    | Midfielder           | 8                  | 2001 / now         |
+	|               |Michael Ballack  | Midfielder           | 13                 | 2006 / 2010        |
+	|               |John Terry       | Defender             | 26                 | 1998 / now         |
+	|               |Joe Cole         | Midfielder           |                    | 2003 / 2010        |
+	|               |Deco             | Midfielder           |                    | 2008 / 2010        |
+	|               |Ashley Cole      | Defender             | 3                  | 2006 / now         |
+	|               |Ricardo Carvalho |                      |                    | 2004 / 2010        |
+	|               |Paulo Ferreira   | Defender             | 19                 | 2004 / 2013        |
+	|               |Didier Drogba    | Forward              | 11                 | 2004 / 2012        |
+	 --------------------------------------------------------------------------------------------------
+	| Description:   Chelsea Football Club is an English football club based in Fulham, London. Founded|
+	|                 in 1905, they play in the Premier League and have spent most of their history in |
+	|                the top tier of English football. Their home ground is the 41,837-seat Stamford Br|
+	|                idge stadium, where they have played since their establishment. Chelsea had their |
+	|                first major success in 1955, when they won the league championship, and won variou|
+	|                s cup competitions during the 1960s, 1970s, 1990s and 2000s. The club has enjoyed |
+	|                its greatest period of success in the past two decades, winning 15 major trophies |
+	|                since 1997. Domestically, Chelsea have won four league titles, seven FA Cups, four|
+	|                 League Cups and four FA Community Shields, while in continental competitions they|
+	|                 have won two UEFA Cup Winners' Cups, one UEFA Super Cup, one UEFA Europa League a|
+	|                nd one UEFA Champions League. Chelsea are the only London club to win the UEFA Cha|
+	|                mpions League, and one of four clubs, and the only British club, to have won all t|
+	|                hree main UEFA club competitions. Chelsea's regular kit colours are royal blue shi|
+	|                rts and shorts with white socks. The club's crest has been changed several times i|
+	|                n attempts to re-brand the club and modernise its image. The current crest, featur|
+	|                ing a ceremonial lion rampant regardant holding a staff, is a modification of the |
+	|                one introduced in the early 1950s. The club has sustained the fifth highest averag|
+	|                e all-time attendance in English football. Their average home gate for the 2012–13|
+	|                 season was 41,462, the sixth highest in the Premier League. Since July 2003, Chel|
+	|                sea have been owned by Russian billionaire Roman Abramovich. In April 2013 it was |
+	|                ranked by Forbes Magazine as the seventh most valuable football club in the world,|
+	|                 at £588 million, an increase of 18% from the previous year.                      |
+	 --------------------------------------------------------------------------------------------------
+
+[16:40:03] sw2848@fb_ibox> LA Lakers
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                  Los Angeles Lakers(SPORTS TEAM)                                 |
+	 --------------------------------------------------------------------------------------------------
+	| Name:          Los Angeles Lakers                                                                |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:         Basketball                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Arena:         Staples Center                                                                    |
+	 --------------------------------------------------------------------------------------------------
+	| Championships: 1948 NBL Finals                                                                   |
+	|                1949 BAA Finals                                                                   |
+	|                1950 NBA Finals                                                                   |
+	|                1952 NBA Finals                                                                   |
+	|                1953 NBA Finals                                                                   |
+	|                1954 NBA Finals                                                                   |
+	|                1972 NBA Finals                                                                   |
+	|                1980 NBA Finals                                                                   |
+	|                1982 NBA Finals                                                                   |
+	|                1985 NBA Finals                                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Founded:       1947                                                                              |
+	 --------------------------------------------------------------------------------------------------
+	| Leagues:       National Basketball Association                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Locations:     Los Angeles                                                                       |
+	 --------------------------------------------------------------------------------------------------
+	| Coaches:      |Name                    | Position                    | From/To                   |
+	|               -----------------------------------------------------------------------------------
+	|               |Mike Brown              | Head coach                  | 2011-05-31 / 2012-11-09   |
+	|               |Bernie Bickerstaff      | Head coach                  | 2012-11-09 / now          |
+	|               |Bernie Bickerstaff      | Assistant Coach             | N/A / 2012-11-09          |
+	 --------------------------------------------------------------------------------------------------
+	| PlayersRoster:|Name             | Position             | Number             | From/To            |
+	|               -----------------------------------------------------------------------------------
+	|               |Shaquille O'Neal | Center               | 34                 | 1996 / 2004-07-14  |
+	|               |Ronny Turiaf     | Power forward        | 21                 | 2005 / 2008        |
+	|               |Kareem Abdul-... | Center               | 33                 | 1975 / 1989        |
+	|               |Magic Johnson    | Shooting guard, P... | 32                 | 1979 / 1991        |
+	|               |Wilt Chamberlain | Center               | 13                 | 1968 / 1973        |
+	|               |Herm Schaefer    |                      |                    | 1947 / 1950        |
+	|               |Von Wafer        |                      |                    | 2005 / 2006        |
+	|               |Trey Johnson     |                      |                    | 2011 / 2011        |
+	|               |Theo Ratliff     |                      |                    | 2010 / 2011        |
+	|               |Derrick Caracter |                      |                    | 2010 / 2012        |
+	 --------------------------------------------------------------------------------------------------
+	| Description:   The Los Angeles Lakers are an American professional basketball team based in Los A|
+	|                ngeles, California. They play in the Pacific Division of the Western Conference in|
+	|                 the National Basketball Association. The Lakers play their home games at Staples |
+	|                Center, which they share with their local NBA rival, the Los Angeles Clippers, the|
+	|                 Los Angeles Kings of the NHL, and the Los Angeles Sparks of the WNBA. The Lakers |
+	|                are one of the most successful teams in the history of the NBA, and have won 16 ch|
+	|                ampionships, their last being in 2010. As of 2013, the Lakers are the second most |
+	|                valuable NBA franchise according to Forbes, having an estimated value of $1 billio|
+	|                n. The franchise began with the 1947 purchase of a disbanded team, the Detroit Gem|
+	|                s of the NBL. The new team began playing in Minneapolis, Minnesota, calling themse|
+	|                lves the Minneapolis Lakers in honor of the state's nickname, "Land of 10,000 Lake|
+	|                s". The Lakers won five championships in Minneapolis, propelled by center George M|
+	|                ikan, who is described by the NBA's official website as the league's "first supers|
+	|                tar". After struggling financially in the late 1950s following Mikan's retirement,|
+	|                 they relocated to Los Angeles before the 1960–61 season.                         |
+	 --------------------------------------------------------------------------------------------------
+
+

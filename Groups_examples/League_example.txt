@@ -1,0 +1,228 @@
+[17:55:24] sw2848@fb_ibox> premier league
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                      Premier League(LEAGUE)                                      |
+	 --------------------------------------------------------------------------------------------------
+	| Name:             Premier League                                                                 |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:            Football                                                                       |
+	 --------------------------------------------------------------------------------------------------
+	| Official Website: http://www.premierleague.com/                                                  |
+	 --------------------------------------------------------------------------------------------------
+	| Championship:     Premier League 2008–09                                                         |
+	 --------------------------------------------------------------------------------------------------
+	| Teams:            Liverpool F.C.                                                                 |
+	|                   Arsenal F.C.                                                                   |
+	|                   Chelsea F.C.                                                                   |
+	|                   Aston Villa F.C.                                                               |
+	|                   Manchester United F.C.                                                         |
+	|                   Everton F.C.                                                                   |
+	|                   Tottenham Hotspur F.C.                                                         |
+	|                   Manchester City F.C.                                                           |
+	|                   Newcastle United F.C.                                                          |
+	|                   Fulham F.C.                                                                    |
+	 --------------------------------------------------------------------------------------------------
+	| Description:      The Premier League is an English professional league for men's association foot|
+	|                   ball clubs. At the top of the English football league system, it is the country|
+	|                   's primary football competition. Contested by 20 clubs, it operates on a system|
+	|                    of promotion and relegation with the Football League. Besides English clubs, s|
+	|                   ome of the Welsh clubs can also qualify to play, and participation by some Scot|
+	|                   tish or Irish clubs has also been mooted. The Premier League is a corporation i|
+	|                   n which the 20 member clubs act as shareholders. Seasons run from August to May|
+	|                   , with teams playing 38 matches each, totalling 380 matches in the season. Most|
+	|                    games are played in the afternoons of Saturdays and Sundays, the other games d|
+	|                   uring weekday evenings. It is currently sponsored by Barclays Bank and thus off|
+	|                   icially known as the Barclays Premier League. Outside of England it is commonly|
+	|                    referred to as the English Premier League. The competition formed as the FA Pr|
+	|                   emier League on 20 February 1992 following the decision of clubs in the Footbal|
+	|                   l League First Division to break away from The Football League, which was origi|
+	|                   nally founded in 1888, and take advantage of a lucrative television rights deal|
+	|                   . This deal is worth £1 billion a year as of 2013–14, with BSkyB and BT Group s|
+	|                   ecuring the rights to broadcast 116 and 38 games respectively. The Premier Leag|
+	|                   ue is the most-watched football league in the world, broadcast in 212 territori|
+	|                   es to 643 million homes and a potential TV audience of 4.7 billion people. In t|
+	|                   he 2010–11 season the average Premier League match attendance was 35,363, the s|
+	|                   econd highest of any professional football league behind the German Bundesliga,|
+	|                    and stadium occupancy was 92.2% capacity. The Premier League ranked second in |
+	|                   the Union of European Football Associations coefficients of leagues based on pe|
+	|                   rformances in European competitions over the last five years.                  |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:57:08] sw2848@fb_ibox> la liga
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                          La Liga(LEAGUE)                                         |
+	 --------------------------------------------------------------------------------------------------
+	| Name:             La Liga                                                                        |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:            Football                                                                       |
+	 --------------------------------------------------------------------------------------------------
+	| Official Website: http://www.lfp.es, http://www.ligabbva.com/                                    |
+	 --------------------------------------------------------------------------------------------------
+	| Teams:            Real Madrid C.F.                                                               |
+	|                   Valencia CF                                                                    |
+	|                   FC Barcelona                                                                   |
+	|                   Atlético Madrid                                                                |
+	|                   Deportivo de La Coruña                                                         |
+	|                   Sevilla FC                                                                     |
+	|                   Real Zaragoza                                                                  |
+	|                   Racing de Santander                                                            |
+	|                   Recreativo de Huelva                                                           |
+	|                   Getafe CF                                                                      |
+	 --------------------------------------------------------------------------------------------------
+	| Description:      The Primera División of the Liga Nacional de Fútbol Profesional, commonly known|
+	|                    in the English-speaking world as La Liga, and officially named for sponsorship|
+	|                    reasons Liga BBVA is the top professional association football division of the|
+	|                    Spanish football league system. It is contested by 20 teams, with the three lo|
+	|                   west placed teams relegated to the Segunda División and replaced by the top two|
+	|                    teams in that division plus the winner of a play-off. A total of 59 teams have|
+	|                    competed in La Liga, nine of which have been crowned champions. Since the 1950|
+	|                   s, Real Madrid and Barcelona have dominated the championship. Real Madrid have |
+	|                   won the title a record 32 times and Barcelona 22 times. During the 1930s and 19|
+	|                   40s and in the last two decades, however, La Liga has seen other champions, inc|
+	|                   luding, Atlético Madrid, Athletic Bilbao, Valencia, Real Sociedad, Deportivo, R|
+	|                   eal Betis, and Sevilla. La Liga is the strongest league in Europe over the past|
+	|                    five years, according to UEFA's league coefficient. La Liga is one of the most|
+	|                    popular professional sports leagues in the world, with an average attendance o|
+	|                   f 30,275 for league matches in the 2011–12 season. This is the fifth-highest of|
+	|                    any domestic professional sports league in the world and the third-highest of |
+	|                   any professional association football league in the world, behind the German Bu|
+	|                   ndesliga and English Premier League.                                           |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:57:17] sw2848@fb_ibox> ncaa
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                         National Collegiate Athletic Association(LEAGUE)                         |
+	 --------------------------------------------------------------------------------------------------
+	| Name:             National Collegiate Athletic Association                                       |
+	 --------------------------------------------------------------------------------------------------
+	| Official Website: http://www.ncaa.org                                                            |
+	 --------------------------------------------------------------------------------------------------
+	| Championship:     NCAA Wrestling Team Championship                                               |
+	 --------------------------------------------------------------------------------------------------
+	| Teams:            Oregon State Beavers baseball                                                  |
+	|                   Wake Forest Demon Deacons women's golf                                         |
+	|                   Kenyon Men's Swimming                                                          |
+	|                   Wofford Terriers men's basketball                                              |
+	|                   UC Santa Barbara Gauchos men's basketball                                      |
+	|                   Saint Mary's Gaels men's basketball                                            |
+	|                   Murray State Racers men's basketball                                           |
+	|                   Stanford Cardinal football                                                     |
+	|                   Baylor Bears baseball                                                          |
+	|                   Ohio State Buckeyes football                                                   |
+	 --------------------------------------------------------------------------------------------------
+	| Description:      The National Collegiate Athletic Association is a nonprofit association of 1,28|
+	|                   1 institutions, conferences, organizations, and individuals that organizes the |
+	|                   athletic programs of many colleges and universities in the United States and Ca|
+	|                   nada. It is headquartered in Indianapolis, Indiana. In August 1973, the current|
+	|                    three-division setup of Division I, Division II, and Division III was adopted |
+	|                   by the NCAA membership in a special convention. Under NCAA rules, Division I an|
+	|                   d Division II schools can offer scholarships to athletes for playing a sport. D|
+	|                   ivision III schools may not offer any athletic scholarships. Generally, larger |
+	|                   schools compete in Division I and smaller schools in II and III. Division I foo|
+	|                   tball was further divided into I-A and I-AA in 1978. Subsequently the term "Div|
+	|                   ision I-AAA" was briefly added to delineate Division I schools which do not fie|
+	|                   ld a football program at all, but that term is no longer officially used by the|
+	|                    NCAA. In 2006, Divisions I-A and I-AA were respectively renamed the Football B|
+	|                   owl Subdivision and Football Championship Subdivision.                         |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:57:36] sw2848@fb_ibox> nba
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                              National Basketball Association(LEAGUE)                             |
+	 --------------------------------------------------------------------------------------------------
+	| Name:             National Basketball Association                                                |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:            Basketball                                                                     |
+	 --------------------------------------------------------------------------------------------------
+	| Slogan:           Where Amazing Happens                                                          |
+	 --------------------------------------------------------------------------------------------------
+	| Official Website: http://www.nba.com/                                                            |
+	 --------------------------------------------------------------------------------------------------
+	| Championship:     NBA Finals                                                                     |
+	 --------------------------------------------------------------------------------------------------
+	| Teams:            Detroit Pistons                                                                |
+	|                   Golden State Warriors                                                          |
+	|                   Los Angeles Lakers                                                             |
+	|                   Cleveland Cavaliers                                                            |
+	|                   Indiana Pacers                                                                 |
+	|                   Utah Jazz                                                                      |
+	|                   Orlando Magic                                                                  |
+	|                   Phoenix Suns                                                                   |
+	|                   Charlotte Bobcats                                                              |
+	|                   Houston Rockets                                                                |
+	 --------------------------------------------------------------------------------------------------
+	| Description:      The National Basketball Association is the pre-eminent men's professional baske|
+	|                   tball league in North America, and is widely considered to be the premier men's|
+	|                    professional basketball league in the world. It has thirty franchised member c|
+	|                   lubs, and is an active member of USA Basketball, which is recognized by FIBA as|
+	|                    the national governing body for basketball in the United States. The NBA is on|
+	|                   e of the four major North American professional sports leagues. NBA players are|
+	|                    the world's best paid sportsmen, by average annual salary per player. The leag|
+	|                   ue was founded in New York City on June 6, 1946, as the Basketball Association |
+	|                   of America. The league adopted the name National Basketball Association on Augu|
+	|                   st 3, 1949, after absorbing the rival National Basketball League. The league's |
+	|                   several international as well as individual team offices are directed out of it|
+	|                   s head offices located in the Olympic Tower at 645 Fifth Avenue in New York Cit|
+	|                   y. NBA Entertainment and NBA TV studios are directed out of offices located in |
+	|                   Secaucus, New Jersey.                                                          |
+	 --------------------------------------------------------------------------------------------------
+
+
+[17:57:43] sw2848@fb_ibox> nfl
+Let me see...
+	 --------------------------------------------------------------------------------------------------
+	|                                 National Football League(LEAGUE)                                 |
+	 --------------------------------------------------------------------------------------------------
+	| Name:             National Football League                                                       |
+	 --------------------------------------------------------------------------------------------------
+	| Sport:            American football                                                              |
+	 --------------------------------------------------------------------------------------------------
+	| Official Website: http://www.nfl.com/                                                            |
+	 --------------------------------------------------------------------------------------------------
+	| Championship:     Super Bowl                                                                     |
+	 --------------------------------------------------------------------------------------------------
+	| Teams:            Detroit Lions                                                                  |
+	|                   Carolina Panthers                                                              |
+	|                   Arizona Cardinals                                                              |
+	|                   Baltimore Ravens                                                               |
+	|                   Jacksonville Jaguars                                                           |
+	|                   Kansas City Chiefs                                                             |
+	|                   Denver Broncos                                                                 |
+	|                   New York Jets                                                                  |
+	|                   New York Giants                                                                |
+	|                   Oakland Raiders                                                                |
+	 --------------------------------------------------------------------------------------------------
+	| Description:      The National Football League is a professional American football league that co|
+	|                   nstitutes one of the four major professional sports leagues in North America. I|
+	|                   t is composed of 32 teams divided equally between the National Football Confere|
+	|                   nce and the American Football Conference. The highest professional level of the|
+	|                    sport in the world, the NFL runs a 17-week regular season from the week after |
+	|                   Labor Day to the week after Christmas, with each team playing sixteen games and|
+	|                    having one bye week each season. Out of the league's 32 teams, six from each c|
+	|                   onference compete in the NFL playoffs, a single-elimination tournament culminat|
+	|                   ing in the Super Bowl, played between the champions of the NFC and AFC. The cha|
+	|                   mpions of the Super Bowl are awarded the Vince Lombardi Trophy. Various other a|
+	|                   wards exist to recognize individual players and coaches. Most games are played |
+	|                   on Sunday afternoons; some games are also played on Mondays and Thursdays durin|
+	|                   g the regular season. There are games on Saturdays during the first two playoff|
+	|                    weekends. Sometimes, there are also Saturday games during the last few weeks o|
+	|                   f the regular season. The NFL was formed on August 20, 1920, as the American Pr|
+	|                   ofessional Football Conference; the league changed its name to the American Pro|
+	|                   fessional Football Association on September 17, 1920, and changed its name to t|
+	|                   he National Football League on June 24, 1922, after spending the 1920 and 1921 |
+	|                   seasons as the APFA. In 1966, the NFL agreed to merge with the rival American F|
+	|                   ootball League, effective 1970; the first Super Bowl was held at the end of tha|
+	|                   t same season in January 1967. Today, the NFL has the highest average attendanc|
+	|                   e of any professional sports league in the world and is the most popular sports|
+	|                    league in the United States. The Super Bowl is among the biggest club sporting|
+	|                    events in the world and individual Super Bowl games account for many of the mo|
+	|                   st-watched television programs in American history. At the corporate level, the|
+	|                    NFL is a nonprofit 501 association. The NFL's executive officer is the commiss|
+	|                   ioner, who has broad authority in governing the league.                        |
+	 --------------------------------------------------------------------------------------------------
